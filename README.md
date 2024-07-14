@@ -2,4 +2,4 @@
 
 
 # Resultado [EVIDENCIA]
-![Logo del Proyecto](image/Captura.PNG)
+![Logo del Proyecto](images/Captura.PNG)
